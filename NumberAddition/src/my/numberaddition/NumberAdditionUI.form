@@ -178,6 +178,8 @@
     </Component>
     <Container class="javax.swing.JInternalFrame" name="jInternalFrame1">
       <Properties>
+        <Property name="closable" type="boolean" value="true"/>
+        <Property name="defaultCloseOperation" type="int" value="1"/>
         <Property name="visible" type="boolean" value="true"/>
       </Properties>
 

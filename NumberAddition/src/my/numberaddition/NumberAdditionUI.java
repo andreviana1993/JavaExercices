@@ -124,6 +124,8 @@ public class NumberAdditionUI extends javax.swing.JFrame {
             }
         });
 
+        jInternalFrame1.setClosable(true);
+        jInternalFrame1.setDefaultCloseOperation(javax.swing.WindowConstants.HIDE_ON_CLOSE);
         jInternalFrame1.setVisible(true);
 
         javax.swing.GroupLayout jInternalFrame1Layout = new javax.swing.GroupLayout(jInternalFrame1.getContentPane());

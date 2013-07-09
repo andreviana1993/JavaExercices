@@ -125,10 +125,6 @@ public class NumberAdditionUI extends javax.swing.JFrame {
         });
 
         jInternalFrame1.setClosable(true);
-        jInternalFrame1.setIconifiable(true);
-        jInternalFrame1.setMaximizable(true);
-        jInternalFrame1.setResizable(true);
-        jInternalFrame1.setTitle("lolitos");
         jInternalFrame1.setDesktopIcon(null);
         jInternalFrame1.setDoubleBuffered(true);
         jInternalFrame1.setVisible(true);
